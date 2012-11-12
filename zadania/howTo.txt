@@ -1,0 +1,1 @@
+g++-4 -Wl,--stack,128000000 -O2 -Wall xxx.cpp -o xxx.exe
